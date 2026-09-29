@@ -45,8 +45,6 @@ Cyclistic's director of marketing believes future growth depends on converting c
 
 - `cyclistic_analysis.ipynb` — full analysis notebook (cleaning, transformation, descriptive stats, visualizations)
 - `outputs/` — exported chart images
-- `cleaned_data/` — cleaned dataset (if included)
 
----
 
 *This is a case study project completed as part of the Google Data Analytics Professional Certificate. The company "Cyclistic" is fictional; the underlying data is Divvy's real, publicly available trip data.*
