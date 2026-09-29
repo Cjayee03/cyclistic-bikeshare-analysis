@@ -32,8 +32,8 @@ Cyclistic's director of marketing believes future growth depends on converting c
 - **Seasonality:** Casual ridership falls **93%** from its July peak (357K rides) to its January low (25K). Member ridership falls less sharply — **78%** from July (511K) to its December low (112K). Casual riders are far more weather-sensitive, and their low point lags a month behind members' (January vs. December).
 - **Bike type:** Electric bikes see far more total use than classic bikes (4.15M vs. 1.89M rides). Casual riders make up a larger share of electric bike rides (**37.1%**) than classic bike rides (**32.2%**) — a mild preference for electric among casual users.
 
-![Rides by day of week](./outputs/chart2_rides_by_day.png)
-![Rides by month](./outputs/chart3_rides_by_month.png)
+![Rides by day of week](chart2_rides_by_day.png)
+![Rides by month](chart3_rides_by_month.png)
 
 ## Top 3 Recommendations
 
